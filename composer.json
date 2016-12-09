@@ -1,0 +1,7 @@
+{
+  "require": {
+    "guzzlehttp/guzzle": "6.2.2",
+    "fabpot/goutte": "v3.2.0",
+    "symfony/process": "v3.2.0"
+  }
+}
